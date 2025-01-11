@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["TZVHD77BLL.com.trillion.StrictMoneyChecking"],
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["TZVHD77BLL.com.trillion.StrictMoneyChecking"]
+  },
+  "appclips": {
+    "apps": ["TZVHD77BLL.com.trillion.StrictMoneyChecking"]
+  }
+}
